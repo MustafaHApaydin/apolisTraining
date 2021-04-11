@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="bhawanhomeworkwebapp">
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <dependent-module archiveName="simplefan.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/M_R&amp;D_LLC/Desktop/OJDBC8-Full (extract.me)/OJDBC8-Full/simplefan.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="oraclepki.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/M_R&amp;D_LLC/Desktop/OJDBC8-Full (extract.me)/OJDBC8-Full/oraclepki.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ucp.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/M_R&amp;D_LLC/Desktop/OJDBC8-Full (extract.me)/OJDBC8-Full/ucp.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="osdt_cert.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/M_R&amp;D_LLC/Desktop/OJDBC8-Full (extract.me)/OJDBC8-Full/osdt_cert.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ojdbc8.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/M_R&amp;D_LLC/Desktop/OJDBC8-Full (extract.me)/OJDBC8-Full/ojdbc8.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="osdt_core.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/M_R&amp;D_LLC/Desktop/OJDBC8-Full (extract.me)/OJDBC8-Full/osdt_core.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="orai18n.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/M_R&amp;D_LLC/Desktop/OJDBC8-Full (extract.me)/OJDBC8-Full/orai18n.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ons.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/M_R&amp;D_LLC/Desktop/OJDBC8-Full (extract.me)/OJDBC8-Full/ons.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                
+        <property name="context-root" value="bhawanhomeworkwebapp"/>
+                
+        <property name="java-output-path" value="/bhawanhomeworkwebapp/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
